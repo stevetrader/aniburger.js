@@ -3,7 +3,7 @@ aniburger.js
 
 #Animated Bootstrap Menu(Burger) Icon
 
-Blog post with demo: http://stevetrader.com/posts/aniburger.html
+Post with demo: http://stevetrader.com/post/aniburger
 
 ##Usage:
 
